@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1472
+
+My goal for this theme is to be brighter and more contrasted than my previous scheme (baycomb), and I focused on making the scheme cohesive as well as having different color schemes for different sections of code. 
+
+My basic vision for this scheme, along with others to various degree, would be, even if you were to squint, you could easily identify one type of code from another. Colors are laid out on a spectrum from yellow to blue, with the strongest yellow colors being control structures, green being variables, and blue being values. I usually lay it out this way so that, for example, if functions are performed on a variable, it will fit in well with a yellow/green scheme, but if you throw one into a long string it won't look like the string is cut in two.
+
+That's the basic idea. Let me know if there's anything I could be doing better in that sense.
+                                                                
+Comments and suggestions:  axs221@gmail.com
+
+
