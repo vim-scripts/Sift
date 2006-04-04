@@ -1,5 +1,5 @@
 " Vim color file
-" sift v1.0b
+" sift v1.2
 " http://www.vim.org/scripts/script.php?script_id=1454
 " 
 " Maintainer:	Shawn Axsom <axs221@gmail.com>
@@ -23,18 +23,18 @@ endif
 
 let g:colors_name="sift"
 
-hi Normal       guifg=#bbccef guibg=#13081a
+hi Normal       guifg=#9bdcef guibg=#13081a
 hi NonText      guifg=#382920 guibg=#140316
 
 " syntax highlighting """"""""""""""""""""""""""""""""""""""""
 
-hi Comment		guifg=#80c080
+hi Comment		guifg=#509080
 hi Title		guifg=#5959f9  gui=none
 hi Underlined   guifg=#0959f9 gui=none
 
-hi Statement    guifg=#ffff50  gui=none
-hi Type			guifg=#c085af  gui=none
-hi Constant		guifg=#5afaf5
+hi Statement    guifg=#ffff80  gui=none
+hi Type			guifg=#00e5bf  gui=none
+hi Constant		guifg=#3acaf5
 hi Number		guifg=#0afafa
 hi PreProc      guifg=#f055c3
 hi Identifier   guifg=#30a0f0
@@ -42,7 +42,7 @@ hi Special		guifg=#c0caa5
 hi Operator		guifg=#905a60
 "hi Keyword		guifg=green
 "hi Error        guibg=#408452
-hi Function     guifg=#c08a50 guibg=bg "or green 50b3b0 
+hi Function     guifg=#c08a50 guibg=bg gui=bold "or green 50b3b0 
 hi Conditional	guifg=#f5305a guibg=bg
 hi Repeat		guifg=#f5505a guibg=bg
 hi Exception	guifg=#cfff00
