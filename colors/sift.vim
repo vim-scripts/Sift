@@ -1,5 +1,5 @@
 " Vim color file
-" sift v1.3b
+" sift v1.3c
 " http://www.vim.org/scripts/script.php?script_id=1454
 " 
 " Maintainer:	Shawn Axsom <axs221@gmail.com>
@@ -23,7 +23,7 @@ endif
 
 let g:colors_name="sift"
 
-hi Normal       guifg=#a8dc6f guibg=#0c121c
+hi Normal       guifg=#b4dcbc guibg=#0c121c
 hi NonText      guifg=#382920 guibg=#041328
 
 " syntax highlighting """"""""""""""""""""""""""""""""""""""""
@@ -36,7 +36,7 @@ hi Statement    guifg=#efef70  "gui=none
 hi Type			guifg=#60e5bf  gui=none
 hi Constant		guifg=#0ad8ff
 hi Number		guifg=#eabaff
-hi PreProc      guifg=#f055c3
+hi PreProc      guifg=#f085b4
 hi Identifier   guifg=#50f0b4
 hi Special		guifg=#88a0d4 
 hi Operator		guifg=#f0da00 
